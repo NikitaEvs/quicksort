@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hutu/quicksort/src/generator.h
+
+/home/hutu/quicksort/src/qsort.cpp
+qsort.h
+/home/hutu/quicksort/src/qsort.h
+generator.h
+/home/hutu/quicksort/src/generator.h
+
+/home/hutu/quicksort/src/qsort.h
+iostream
+-
+cassert
+-
+utility
+-
+string
+-
+random
+-
+stack
+-
+vector
+-
+chrono
+-
+ctime
+-
+algorithm
+-
+sort.h
+/home/hutu/quicksort/src/sort.h
+
+/home/hutu/quicksort/src/sort.h
+
